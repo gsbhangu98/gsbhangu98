@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gsbhangu98
 - 👀 I’m interested in cricket,football, coding
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on basic C# projects to further my knowledge 
+- 🌱 I’m currently learning Python to further my Data Analysis skills
+- 💞️ I’m looking to collaborate on basic Python projects to further my knowledge 
 - 📫 How to reach me via email - gsbhangu@hotmail.co.uk
 
 <!---
